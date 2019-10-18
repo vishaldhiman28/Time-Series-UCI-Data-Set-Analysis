@@ -2,7 +2,9 @@
 Individual household electric power consumption Data Set Analysis 
 Link to dataset: https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
 
+(Github does not render plotly)
 To see visual analysis visit: 
+https://nbviewer.jupyter.org/github/cyberdhiman/Time-Series-UCI-Data-Set-Analysis/blob/master/household_power_cosumption_p.ipynb
 
 
 Summary of  Paper: 
